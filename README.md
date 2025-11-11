@@ -1,6 +1,6 @@
-# TP\_01 AEDs\_I
+# TP\_02 AEDs\_I
 
-Trabalho Prático de Algoritimo e Estrutura de Dados I
+Terceiro trabalho prático de Algoritimo e Estrutura de Dados I
 
 
 
